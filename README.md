@@ -35,6 +35,6 @@ the aim of this repository is to host this script in every programming language 
 ## The Rules:
 
 * Console applications only.
-* The Strings which are hardcoded in the above example most remain the same.
+* The Strings which are hardcoded in the above example must remain the same.
 
 Happy Coding
