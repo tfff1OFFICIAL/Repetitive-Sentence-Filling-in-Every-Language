@@ -24,7 +24,7 @@ else:
     data_list = data.split(",")
 
 for entry in data_list:
-    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~%s: \n%s\n"% (entry, comment.replace("<*>", student)))
+    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~%s: \n%s\n"% (entry, comment.replace("<*>", entry)))
     uinput("Press Enter to continue...")
 
 print("That's it folks!")
